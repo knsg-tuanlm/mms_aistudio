@@ -1,0 +1,10 @@
+{
+  "name": "MMS Quản Lý Kho & Máy Quét PDA",
+  "description": "Hệ thống quản lý kho vật tư MMS tối ưu vận hành thực tế tại sàn kho, hỗ trợ máy quét cầm tay PDA Laser/Camera, quy trình Cất kệ, Soạn hàng FIFO, Nhận hàng PO và Kiểm kê nhanh.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
